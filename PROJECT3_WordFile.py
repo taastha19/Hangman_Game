@@ -1,0 +1,1 @@
+words = ["ant","baboon","bird","badger","beautiful","bat","bear","camel","cat","cobra","crow","deer","dog","donkey","duck","eagle","fox","frog","goat","hawk","lion","lizard","monkey","mouse","owl","panda","parrot","pigeon","python","rabbit","rat","rhino","salmon","seal","shark","sheep","skunk","snake","spider","swan","tiger","turkey","turtle","whale","wolf","zebra"]
